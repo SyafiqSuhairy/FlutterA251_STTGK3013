@@ -59,7 +59,7 @@ The calculation only proceeds if both of these checks pass.
 
 ### 8.1 Splash Screen Page
 <div style="max-width: 300px;"> 
-    <img src="https://github.com/user-attachments/assets/f204b6c0-b559-4bf9-bf80-b2b82efe8302" alt="Splash Screen" style="width:100%;">
+    <img src="https://github.com/user-attachments/assets/f204b6c0-b559-4bf9-bf80-b2b82efe8302" alt="Splash Screen" style="width:40%;">
 </div>
 
 
