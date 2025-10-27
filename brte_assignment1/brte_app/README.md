@@ -61,7 +61,7 @@ The calculation only proceeds if both of these checks pass.
 3.  Make sure their names are *exactly* `splash.png`, `home_before.png`, and `home_after.png`.
 
 ### 8.1 Splash Screen Page
-![Splash Screen](screenshots/splash.png)
+<img width="753" height="1007" alt="Image" src="https://github.com/user-attachments/assets/f204b6c0-b559-4bf9-bf80-b2b82efe8302" />
 
 ### 8.2 Home Page BEFORE & AFTER Calculation
 ![Home Screen Before](screenshots/home_before.png)
