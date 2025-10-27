@@ -59,16 +59,23 @@ The calculation only proceeds if both of these checks pass.
 
 ### 8.1 Splash Screen Page
 <div style="max-width: 300px;"> 
-    <img src="https://github.com/user-attachments/assets/f204b6c0-b559-4bf9-bf80-b2b82efe8302" alt="Splash Screen" style="width:40%;">
+    <img src="https://github.com/user-attachments/assets/f204b6c0-b559-4bf9-bf80-b2b82efe8302" alt="Splash Screen" style="width:35%;">
 </div>
 
-
-<img width="753" height="1007" alt="Image" src="https://github.com/user-attachments/assets/f204b6c0-b559-4bf9-bf80-b2b82efe8302" />
-
 ### 8.2 Home Page BEFORE & AFTER Calculation
-![Home Screen Before](screenshots/home_before.png)
-![Home Screen After](screenshots/home_after.png)
+
+<div style="max-width: 300px;"> 
+    <img src="https://github.com/user-attachments/assets/e1c44eea-63bb-4258-9ab7-3c75a61e41f1" alt="Splash Screen" style="width:35%;">
+</div>
+<div style="max-width: 300px;"> 
+    <img src="https://github.com/user-attachments/assets/b85dd146-f205-43ed-980c-b54c64347928" alt="Splash Screen" style="width:35%;">
+</div>
 
 ### 8.3 Home Page with Error Inputs 
-![Home Screen Before](screenshots/home_error1.png)
-![Home Screen Before](screenshots/home_error2.png)
+
+<div style="max-width: 300px;"> 
+    <img src="https://github.com/user-attachments/assets/68168bb8-43dc-4b32-a28f-9b7df834059e" alt="Splash Screen" style="width:35%;">
+</div>
+<div style="max-width: 300px;"> 
+    <img src="https://github.com/user-attachments/assets/377e604c-41b7-40bb-a740-cf5d676414f7" alt="Splash Screen" style="width:35%;">
+</div>
