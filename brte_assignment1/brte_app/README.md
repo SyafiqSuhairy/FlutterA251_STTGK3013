@@ -50,6 +50,7 @@ The calculation only proceeds if both of these checks pass.
 
 ## 7.0 Authorship Note with Signature
 
+<img width="593" height="421" alt="syafiq_digital_signature-removebg-preview" src="https://github.com/user-attachments/assets/ba66168c-8133-4cf0-9956-192aaed67db8" />
 
 **(MUHAMMAD SYAFIQ BIN SUHAIRY and 291214)**
 
