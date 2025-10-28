@@ -4,8 +4,8 @@
 [https://github.com/SyafiqSuhairy/FlutterA251_STTGK3013/tree/main/brte_assignment1/brte_app](https://github.com/SyafiqSuhairy/FlutterA251_STTGK3013/tree/main/brte_assignment1/brte_app)
 
 ## 2.0 YouTube Presentation Link
-*[Paste your YouTube link here]*
-
+[Flutter Apps - Book Reading Time Estimator]
+(https://youtu.be/e0qi4HeeaKk)
 
 ## 3.0 Book Reading Time Estimator Application & Description
 BRTE (Book Reading Time Estimator) is a simple, single-purpose Flutter utility app. It allows a user to estimate how many days it will take them to finish reading a book. The user provides the book's total page count, their average reading speed, and the number of hours they plan to read each day to get the final-day estimate.
