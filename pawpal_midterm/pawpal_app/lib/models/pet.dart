@@ -51,7 +51,6 @@ class Pet {
     data['category'] = category;
     data['description'] = description;
     
-    // Join the list back into a string if we ever need to send it back
     data['image_paths'] = imagePaths?.join(',');
     
     data['lat'] = lat;
